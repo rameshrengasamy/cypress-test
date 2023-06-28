@@ -1,0 +1,6 @@
+{
+  "iframeId": "#gnewtonIframe",
+  "gender": "#{gender}",
+  "ethnicity": "[name='race']",
+  "continueBtn": "[ns-qa='continueBtn']"
+}

@@ -1,0 +1,7 @@
+{
+  "iframeId": "#gnewtonIframe",
+  "nonVeteran": "#not-identify",
+  "veteran": "#protected-veteran",
+  "donotIdentify": "#not-identify-identify",
+  "continueBtn": "[ns-qa='continueBtn']"
+}

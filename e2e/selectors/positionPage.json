@@ -1,0 +1,5 @@
+{
+  "iframeId": "#gnewtonIframe",
+  "indeedApplyBtn": "a.indeed-apply-button",
+  "applyBtn": "[ns-qa='applyBtn']"
+}

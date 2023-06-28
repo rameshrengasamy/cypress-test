@@ -1,0 +1,7 @@
+{
+  "iframeId": "#gnewtonIframe",
+  "firstName": "[ns-qa='firstNameField']",
+  "lastName": "[ns-qa='lastNameField']",
+  "email": "[ns-qa='emailField']",
+  "submitBtn": "[ns-qa='submitBtn']"
+}

@@ -1,0 +1,5 @@
+{
+  "iframeId": "#gnewtonIframe",
+  "jobFrame": ".job-frame",
+  "positionLink": "[ns-qa*={text}]"
+}

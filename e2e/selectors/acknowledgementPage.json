@@ -1,0 +1,5 @@
+{
+  "iframeId": "#gnewtonIframe",
+  "continueBtn": "[ns-qa='continueBtn']",
+  "ackForm": "div #gnewton-vevraa-form"
+}

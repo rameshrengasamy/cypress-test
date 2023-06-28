@@ -1,0 +1,9 @@
+{
+  "iframeId": "#gnewtonIframe",
+  "disability": "#disability",
+  "noDisability": "#not_disability",
+  "declineDisability": "#declined_disability",
+  "name": "[ns-qa='yourName']",
+  "date": "[ns-qa='todayDate']",
+  "continueBtn": "[ns-qa='continueBtn']"
+}

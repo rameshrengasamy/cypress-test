@@ -1,0 +1,8 @@
+{
+  "url": "https://iodinesoftware.com/careers-2/",
+  "dummyData": "clear",
+  "firstname": "testerFN",
+  "lastname": "testerLN",
+  "invalidEmail": "test",
+  "invalidEmailErrorMessage": "Please include an '@' in the email address. '{email}' is missing an '@'."
+}

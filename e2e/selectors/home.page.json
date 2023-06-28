@@ -1,0 +1,7 @@
+{
+  "logo": ".iodine-logo",
+  "navMenu": ".nav-menu",
+  "companyHeaderLink": "//ul[@id='menu-main-menu-new']//a[text()='Company']",
+  "careersSubMenu": ".//ul[@id='menu-main-menu-new']//h4[text()='Careers']/ancestor::a",
+  "careersHeaderSubLink": "//ul[@id='menu-main-menu-new']//h4[text()='Careers']"
+}
